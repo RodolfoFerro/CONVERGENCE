@@ -1,4 +1,4 @@
-![DCNE-CONVERGENCE](DCNE-CONVERGENCE.png)
+![DCNE-CONVERGENCE](DCNE – CONVERGENCE.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
