@@ -1,4 +1,4 @@
-![DCNE-CONVERGENCE](DCNE – CONVERGENCE.png)
+![DCNE-CONVERGENCE](banner.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
@@ -43,6 +43,7 @@ La siguiente captura de pantalla ilustra este proceso.
 
 En [Colab](https://colab.research.google.com) puedes crear un nuevo *notebook*, subir uno existente desde tu computadora o importarlo de Google Drive o GitHub.
 
+*** 
 
 ### Atribuciones
 
