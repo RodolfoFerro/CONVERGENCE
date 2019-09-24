@@ -21,6 +21,7 @@ El contenido se desarrollará en Python 3.7+ usando la biblioteca [Tensorflow 2.
 Puedes abrir directamente el cuaderno en Google Colab [**AQUÍ**](https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb).
 
 O puedes simplemente dar click en el siguiente botón:
+
 <a href="https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb" target="_blank"><img width="20%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 #### Requerimientos:
