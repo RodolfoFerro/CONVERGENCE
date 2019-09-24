@@ -18,6 +18,11 @@ Puedes encontrar los slides en vivo [**AQUÍ**](https://docs.google.com/presenta
 
 El contenido se desarrollará en Python 3.7+ usando la biblioteca [Tensorflow 2.0](https://www.tensorflow.org/), que adopta [Keras](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras) como interfaz de alto nivel para construir y entrenar redes neuronales.
 
+Puedes abrir directamente el cuaderno en Google Colab [**AQUÍ**](https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb).
+
+O puedes simplemente dar click en el siguiente botón:
+<a href="https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb" target="_blank"><img width="20%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 #### Requerimientos:
 * Una laptop.
 * Este repositorio de GitHub clonado y actualizado antes del taller.
