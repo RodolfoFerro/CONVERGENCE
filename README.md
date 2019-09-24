@@ -1,7 +1,6 @@
 ![DCNE-CONVERGENCE](banner.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
-![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
 ![GitHub](https://img.shields.io/github/license/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
 [![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)](https://docs.google.com/presentation/d/e/2PACX-1vT1XzhNXWnhUSWOMOywwU5eThDmWjYk39LBd4SJC_L5NEuwxqjpXBRXgEJ8cukv7rM-uq7QVqDobHoR/pub?start=false&loop=false&delayms=3000)
 
