@@ -1,8 +1,10 @@
 ![DCNE-CONVERGENCE](banner.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
-![GitHub](https://img.shields.io/github/license/RodolfoFerro/DCNE-CONVERGENCE?style=for-the-badge) <br>
-[![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)](https://docs.google.com/presentation/d/e/2PACX-1vT1XzhNXWnhUSWOMOywwU5eThDmWjYk39LBd4SJC_L5NEuwxqjpXBRXgEJ8cukv7rM-uq7QVqDobHoR/pub?start=false&loop=false&delayms=3000)
+<a><img height="30" src="https://img.shields.io/github/last-commit/RodolfoFerro/DCNE-CONVERGENCE?label=Last%20commit&style=flat" alt="Last commit"/></a>
+<a href="https://github.com/RodolfoFerro/DCNE-CONVERGENCE" target="blank_"><img height="30" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&logo=github&style=flat" alt="GitHub repo"/></a>
+<a href="https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb" target="blank_"><img height="30" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vT1XzhNXWnhUSWOMOywwU5eThDmWjYk39LBd4SJC_L5NEuwxqjpXBRXgEJ8cukv7rM-uq7QVqDobHoR/pub?start=false&loop=false&delayms=3000" target="blank_"><img height="30" src="https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=FFBB00&style=flat" alt="Open Slides"/></a>
+<a><img height="30" src="https://img.shields.io/github/license/RodolfoFerro/DCNE-CONVERGENCE?label=LICENSE&style=flat" alt="LICENSE"/></a>
 
 ## Contenido
 
@@ -22,7 +24,7 @@ Puedes abrir directamente el cuaderno en Google Colab [**AQUÍ**](https://colab.
 
 O puedes simplemente dar click en el siguiente botón:
 
-<a href="https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb" target="_blank"><img width="20%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/RodolfoFerro/DCNE-CONVERGENCE/blob/master/DCNE%20%E2%80%93%20CONVERGENCE.ipynb" target="blank_"><img width="20%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 #### Requerimientos:
 * Una laptop.
